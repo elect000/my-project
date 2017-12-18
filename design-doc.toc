@@ -1,0 +1,55 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}目的}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}背景}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}対応項目}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}非対応項目}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}スケジュール}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}仕様}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}画面制御}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}アカウント制御画面}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}機械学習制御}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.3.1}実行・パラメータ等設定}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.3.2}実行する機械学習についての解説の表示}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4}実行結果出力制御}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5}実行結果表示}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6}アカウントに紐付いた機械学習履歴の保存・呼び出し}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.7}アカウントに紐付いた元データの保存・呼び出し}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.8}統計・機械学習に関する仕様}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.8.1}ARIMA}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.8.2}ランダムフォレスト}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}実装}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}セキュリティやプライバシーについて}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}リスク}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}テスト計画}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11}参考資料}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12}リポジトリ}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13}編集履歴}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.1}{\bfseries \sffamily DONE} 第1回編集 \textit {[2017-12-18 月 17:02]}}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.2}{\bfseries \sffamily DONE} 第2回編集 \textit {[2017-12-19 火 04:17]}}{12}
